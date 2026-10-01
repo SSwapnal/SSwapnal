@@ -1,6 +1,6 @@
 ### Hi, I'm Swapnal 👋
 
-QA engineer / SDET with 8+ years of experience building test automation for complex, distributed systems. I've built Python and C++ frameworks (Pytest, GoogleTest) with CI/CD in Jenkins and Docker. My current focus is applying LLMs and agentic AI to everyday QA work: generating tests, keeping UI suites working through front-end changes, and triaging CI failures.
+QA engineer / SDET with 6+ years of experience building test automation for complex, distributed systems. I've built Python and C++ frameworks (Pytest, GoogleTest) with CI/CD in Jenkins and Docker. My current focus is applying LLMs and agentic AI to everyday QA work: generating tests, keeping UI suites working through front-end changes, and triaging CI failures.
 
 📍 San Francisco Bay Area · [LinkedIn](https://www.linkedin.com/in/swapnalj)
 
